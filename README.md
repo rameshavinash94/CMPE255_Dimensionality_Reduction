@@ -24,7 +24,7 @@ In 2D/3D, UMAP/t-SNE offered higher clustering results ( example: check gender c
 
 Our dataset's clustering was likewise well-served by ISOMAP embedding. LLE uses KNN in a similar way to ISOMAP, but the visualization was considerably different from the other techniques. In addition, LLE computations are faster than ISOMAP computations.
 
-## IMAGE DATA:
+## Image Data:
 
 **Dimensionality Techniques on the Fashion Dataset:**
 
