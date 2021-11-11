@@ -1,6 +1,6 @@
 # CMPE255_Dimensionality_Reduction
 
-## various dimensionality reduction techniques
+## Various Dimensionality Reduction Techniques
 _i) PCA
 ii) SVD
 iii) LLE
