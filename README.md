@@ -50,4 +50,4 @@ PCA/SVD fails to cluster the fashion category data points based on the actual in
 
 **Non-Linear Dimensionality Reduction Techniques:**
 Even with a small sample of 1000 observations, all Manifold learning approaches did a far better job of creating beautiful clusters.
-t-SNE generates good clusters of various fashion items, each of which is visualized as a block. UMAP was substantially faster, implying that it can handle massive datasets and data with many dimensions. Despite the peaks, LLE was capable of capturing better cluster structure.
+t-SNE generates good clusters of various fashion items, each of which is visualized as a block. UMAP was substantially faster, implying that it can handle massive datasets and data with many dimensions. Despite the peaks, LLE was capable of capturing some cluster structure.
